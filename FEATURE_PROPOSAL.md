@@ -1,11 +1,4 @@
-# Feature Proposal: Context Intelligence System for Google Antigravity
-
-> **Author:** Montassar Werteni  
-> **Date:** March 26, 2026  
-> **Target Platform:** Google Antigravity v1.20+  
-> **Status:** Proposal
-
----
+# Feature Proposal: Context Intelligence System
 
 ## Table of Contents
 
